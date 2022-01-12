@@ -8,6 +8,7 @@
 
     ```
     pip install PyInstaller
+	pip install PyInstaller -i https://pypi.tuna.tsinghua.edu.cn/simple
     ```
 
 - 打包命令
